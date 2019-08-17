@@ -1,13 +1,12 @@
 print("hello")
 #this is a estring
 algo = input("ingresa un texto ")
-
 print(algo)
 
 
 age = int(input("enter your age:"))
 new_age = age +50
-print(new_agre)
+print(new_age)
 
 
 #strings
@@ -32,7 +31,6 @@ c.remove
 t = ("hello", 3,4.5, "algo")
 #dicctionarios
 d = {"name":"Nestor", "lastname":"Gonzalez", "cities":("Guatemala", "VilaNueva", "San Miguel")}
-print d["name"]
-print d["cities"]
-print d["cities"][2]
-
+print (d["name"])
+print (d["cities"])
+print (d["cities"][2])

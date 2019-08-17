@@ -12,3 +12,24 @@ Repaso de lo basico de python
 
 -- repasar mas de listas tubplas y diccionarios
 
+#Dia2
+solo se vio los posiblre errores y esas cosas
+adicional se vio try y catch para exepciones y para espefic la eceptcion de division por 0
+
+
+
+#Dia3
+funciones y condiciones para las mismas se fio como crear las funciones y como debuelven los elementos
+se vio la estrucctura condicional if y elif
+
+#Dia4
+se vio el bucle for para listas 
+y se utilizo para recorrer un par de lista sy concatenar los objertos 
+se utilizo while para ver si se encontraba una respuesta
+
+#Dia 5 
+he aprendido como manipurar archivos de testo, como ingresar y leer y como agregar texto 
+se utilizo un ejerccio con un loop para ingresar datos a un archivo de texto 
+hay algo hacerca de las filas que es como se utiliza r read w write and a append 
+
+
