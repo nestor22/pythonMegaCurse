@@ -33,3 +33,7 @@ se utilizo un ejerccio con un loop para ingresar datos a un archivo de texto
 hay algo hacerca de las filas que es como se utiliza r read w write and a append 
 
 
+#Dia 6
+solo como comentar el codigo y crear documentacion al incio para saber que tienen las clases 
+se vio tambien como ver lo de las  fechas y sus fomatos con tiem y datatime
+no se pudo completar el ejercicio 
